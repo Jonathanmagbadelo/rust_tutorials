@@ -5,3 +5,4 @@ authors = ["Jon Magbadelo <jm676@sussex.ac.uk>"]
 edition = "2018"
 
 [dependencies]
+rand = "0.3.14"
